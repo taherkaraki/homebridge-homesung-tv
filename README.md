@@ -1,5 +1,7 @@
 This is a fork of [kkapitan](https://github.com/kkapitan/homebridge-homesung), he doesn't seem to support this package anymore.
 
+# I sold my TV, I can no longer test or support this package
+
 **NOTE: This plugin is in WIP state. While it should work in simple cases, there are still some work in progress to make it more stable.**
 
 ---
